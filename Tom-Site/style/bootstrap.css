@@ -125,7 +125,7 @@ button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-    -webkit-appearance: button;
+    background-color:#1595A3;
     cursor: pointer;
 }
 button[disabled],
